@@ -136,7 +136,7 @@ $msg="Your Password succesfully changed";
                 
                 </ul>
           <div class="footer">
-                    <p class="copyright"><a href="http://phpgurukul.com/">PHPGURUKUL </a>©</p>
+                    <p class="copyright"><a href="">BRANDTECH </a>©</p>
                 
                 </div>
                 </div>
